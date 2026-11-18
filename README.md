@@ -2,6 +2,8 @@
 
 Personal portfolio website of **Himanshu Kunwar**, a Full Stack Developer who builds responsive web applications, real-time systems and data-driven products.
 
+## Link - [https://portfolio-nine-delta-sc7clxbxre.vercel.app/]
+
 ## About me
 
 I build user-friendly, robust web products from the interface to the database: React and TypeScript on the front, Node.js, Express and Bun on the back, with PostgreSQL, MongoDB, Prisma and Redis for data. I also work as a data analyst, using SQL, BI tools and Python to keep data accurate and useful.
@@ -33,16 +35,6 @@ Pages: **Home**, **About**, **Work** and **Contact**, with a shared header and f
 - Scroll-reveal animations, a scrolling tools marquee, count-up stats, an animated skills selector and a FAQ accordion
 - Custom cursor and a scroll progress bar
 - Contact form that emails me through the [Resend](https://resend.com) API, with the visitor set as the reply-to address
-
-## Run it locally
-
-```bash
-npm install
-cp .env.example .env.local   # add your RESEND_API_KEY
-npm run dev                  # http://localhost:3000
-```
-
-Other scripts: `npm run lint`, `npm run build`, `npm run start`.
 
 **Environment variables**
 
